@@ -2,13 +2,15 @@
 
 Java Project on Number Guessing Game programmed using **OpenSDK 15.0.1** (Amazon Corretto) and JavaFx 15 Runtime **SDK 11.0.2**
 
+
 Released Executable JAR file is Available.	***Check Release Folder!!***
 
 
 
 
-
 Screenshots:
+
+
 ![Home Screen](https://drive.google.com/uc?export=download&id=1SgaewpUmrGOpBJRbQ2gtmHsOslLJkliP)
 
 ![Guess the Number](https://drive.google.com/uc?export=download&id=1CtJrEPLfkfGHA5XJOiNUShWjwrriMgU_)
@@ -30,4 +32,3 @@ In Terminal / CMD.
 
 
     NA
-
